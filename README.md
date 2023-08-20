@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Himanshukohale22/Himanshukohale22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 , it's Himanshu
 
-Here are some ideas to get you started:
+### A Electronics and Embedded system guy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm interested in Electronics Circuit design/PCB design.
+* Embedded system devlopment.
+* PCB designer.
+   - Analog design
+   - Digital design
+   - Mixed signal design
+   - RF design
+* 2+ years worked experience with Electronics hardware design and Embedded system.
+
+
+Connects with me.
+
+* [Email](kohalehimanshu22@gmail.com)
+* [linkedln - Himanshu kohale](https://www.linkedin.com/in/himanshukohale/) 
