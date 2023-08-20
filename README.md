@@ -4,7 +4,7 @@
 ### A Electronics and Embedded system guy.
 
 * I'm interested in Electronics Circuit design/PCB design.
-* Embedded system devlopment.
+* Embedded system development.
 * PCB designer.
    - Analog design
    - Digital design
