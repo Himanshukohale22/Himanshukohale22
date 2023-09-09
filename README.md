@@ -3,8 +3,14 @@
 
 ### A Electronics and Embedded system guy.
 
-* I'm interested in Electronics Circuit design/PCB design.
+* Deeply interested in Analog electronics/circuit design/circuit troubleshooting.
+* I'm Enthusiast in Electronics Circuit design/PCB design/circuit testing/problem solving in analog and RF design.
 * Embedded system development.
+* My skills set
+   * Analog Electronics
+   * RF circuits
+   * Analog problem solving
+   * Circuit design/simulation      
 * PCB designer.
    - Analog design
    - Digital design
