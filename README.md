@@ -18,7 +18,7 @@
      * Mixed signal.
      * small signal/high power signals. 
       
-* 2+ years worked experience with Electronics hardware design and Embedded system.
+* 2+ years work experience with Electronics hardware design and Embedded system.
 
 
 Connects with me.
