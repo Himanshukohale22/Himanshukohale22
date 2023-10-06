@@ -23,5 +23,5 @@
 
 Connects with me.
 
-* [Email](kohalehimanshu22@gmail.com)
+* Email -> kohalehimanshu22@gmail.com
 * [linkedln - Himanshu kohale](https://www.linkedin.com/in/himanshukohale/) 
