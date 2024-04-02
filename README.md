@@ -12,7 +12,6 @@ Connects with me.
 * Email -> kohalehimanshu22@gmail.com
 * [linkedln - Himanshu kohale](https://www.linkedin.com/in/himanshukohale/)
 * Discord - [Discord/himanshu]<https://discord.com/users/869908108565168198>
-* `Discord <https://discord.com/users/869908108565168198>`_   
 
 
 <h3 align="left">Languages and Tools:</h3>
