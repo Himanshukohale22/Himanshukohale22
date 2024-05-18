@@ -3,7 +3,8 @@
 
 ### A Electronics and Embedded system guy.
 
-* Deeply interested in Analog electronics/Embedded system development/pcb design.
+* Deeply interested in Analog electronics/Embedded system development/Firmware desing/linux/pcb design.
+* I am eager to learn and apply my skills of Electronics Hardware design, Embedded systems. with a keen focus on areas such as Embedded Hardware development, Linux, Firmware development, PCB design and IOT Technologies
 
 
 
