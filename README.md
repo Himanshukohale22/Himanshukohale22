@@ -3,9 +3,8 @@
 
 ### A Electronics and Embedded system guy.
 
-* Deeply interested in Analog electronics/Embedded system development/Firmware desing/linux/pcb design.
-* I am eager to learn and apply my skills of Electronics Hardware design, Embedded systems. with a keen focus on areas such as Embedded Hardware development, Linux, Firmware development, PCB design, ROS2, IOT Technologies
-
+* Deeply interested in Analog electronics/Embedded system development/Firmware desing/linux/pcb design/ROS2.
+* I am eager to learn and apply my skills of Electronics Hardware design, Embedded systems. with a keen focus on areas such as Embedded Hardware development, Linux, Firmware development, PCB design and ROS2
 
 
 Connects with me.
